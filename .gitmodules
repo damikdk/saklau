@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/damikdk/saklau-web.git
+[submodule "server"]
+	path = server
+	url = https://github.com/damikdk/saklau-server.git
